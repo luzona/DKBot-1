@@ -111,7 +111,7 @@ client.on('message', message => {
     }).then(invite =>
       message.author.sendMessage(invite.url)
     )
-  message.channel.send("**تم ارسال الرابط على الخاص**")
+  message.channel.send("**تم ارسال الرابط454لى الخاص**")
 
 message.author.send(`**مدة الرابط : يـوم
 عدد استخدامات الرابط : 2**`)
